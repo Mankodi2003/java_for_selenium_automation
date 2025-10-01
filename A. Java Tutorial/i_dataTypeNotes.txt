@@ -1,0 +1,32 @@
+=> All  Primitive Data Types...
+
+-> Predefined by Oracle...
+
+byte => Whole number (-128 to 127 bytes)
+
+short => Whole number (-32,768 to 32,767 bytes)
+
+int => Whole number (-2,147,483,648 to 2,147,483,647 bytes)
+
+long => Whole number (-9,223,372,036,854,775,808 to 9,223,372,036,854,775,808 bytes)
+
+float => Fractional Numbers (6 to 7 decimal digits)
+
+double => Fractional Numbers (15 to 16 decimal digits)
+
+char => Single Character/ ASCII values
+
+
+
+
+
+
+=> All Non-primitive Data Type...
+ 
+-> Created By Programmer...
+
+Strings
+
+Arrays
+
+Classes
