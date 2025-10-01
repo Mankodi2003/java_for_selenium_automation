@@ -1,0 +1,13 @@
+Data Structures are way to store and organize data so we can use it efficiently.
+java.util package, all the data structures got stored.
+
+Common type of data structures.
+
+
+1) ArrayList :- An ArrayList is a resizable array that can grow as needed. It allows us to store elements and access them by index.
+ 
+2) HashSet :- A HashSet is a collection where every element is unique - no duplicates are allowed.
+
+3) HashMap :- A HashMap stores key-value pairs, which are great when you want to store values and find them by a key (like name or ID).
+
+4) Iterators :- An iterator is a way loop through elements in a data structure. It is called "iterators" because "Iterating" is the technical term for looping.

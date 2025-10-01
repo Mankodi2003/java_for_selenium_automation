@@ -1,0 +1,32 @@
+The List interface is part of the java collections framework and presents an ordered collection of elements.
+
+We can access elements by their index, add duplicated, and maintain the insertion order.
+
+Since List is an interface, you cannot create a List object directly.
+
+Instead you can use a class that implements the List interface, such as : ArrayList, LinkedList.
+
+
+
+=> Common List Methods :-
+
+1) add()
+2) get()
+3) set()
+4) remove()
+5) size()
+
+
+
+=> List vs. Array :-
+
+Array : Fixed Size.
+List : Dynamic Size.
+
+
+Array : Faster performance for raw data.
+List : More flexible and feature-rich.
+
+
+Array : Not part of Collection Framework.
+List : Part of Collection FrameWork.

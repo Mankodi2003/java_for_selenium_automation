@@ -1,0 +1,18 @@
+All of Data Structures like ArrayList, HashSet and HashMap are part of something bigger - The Java collections Framework.
+
+The Java Collection FrameWork provides a set of interfaces (like List, Set and Map) and a set of classes (ArrayList, HashSet, HashMap, etc.) that implement those interfaces.
+
+All of these are part of the java.util package.
+
+ 1) List (for order)                 :-               1) ArrayList
+                                                      2) LinkedList               
+
+
+ 2) Set (for unique elements)        :-               1) HashSet
+                                                      2) TreeSet
+                                                      3) LinkedHashSet
+
+                    
+ 3) Map  (for key-value pairs)       :-               1) HashMap
+                                                      2) TreeMap
+                                                      3) LinkedHashMap

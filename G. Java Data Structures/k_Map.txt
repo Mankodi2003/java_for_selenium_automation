@@ -1,0 +1,38 @@
+The map interface is a part of the Java Collections Framework and is used to store key-value pairs. Each key must be unique, but values can be duplicated.
+
+A Map is useful when you want to associate a key (like a name or ID) with a value (Like an age or description).
+
+Use a Map when you want to associate values with unique keys, like storing iser IDs with names.
+
+=> Common classes that implements Set:
+
+1) HashMap
+2) TreeMap
+3) LinkedHashMap
+
+
+=> Common Map Methods :-
+
+1) put()
+2) get()
+3) remove()
+4) containsKey()
+5) KeySet()
+
+
+
+=> Map vs. Set vs. Map :-
+
+List :- Duplicates Allowed
+Set :- Duplicates not Allowed
+Map :- in Keys = Duplicates Not Allowed, in values = Duplicates Allowed
+
+
+List :- Doesn't store key-value pairs
+Set :- Doesn't store key-value pairs
+Map :- stores key-value pairs
+
+
+List :- Maintains Order.
+Set :-  Doesn't maintain Order(unless using TreeSet or LinkedHashSet)
+Map :- Doesn't maintain Order(unless using TreeMap or LinkedHashMap)
