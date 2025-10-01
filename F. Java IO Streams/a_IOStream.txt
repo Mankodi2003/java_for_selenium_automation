@@ -1,0 +1,6 @@
+file class is to only create or to see whether file exists or to delete it. but if we want to delete it, we have to use IOStream.
+we used scanner and FileWriter in files, but it is made only for small text files. if we want to do all the thing swith binary data, it is not possible by this, so we have to use IOStream.
+
+2 types of streams...
+1) Byte Stream  =>  ex : FileInputStream, FileOutputStream.
+2) Character Stream  =>  ex : FileReader, FileWriter, BufferedReader, BufferedWriter.
